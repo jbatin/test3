@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/jekylltest/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/jekylltest/" rel="alternate" type="text/html" /><updated>2018-09-18T10:06:38+02:00</updated><id>http://localhost:4000/jekylltest/</id><title type="html">Test static</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Wedding Adrian+Dolores</title><link href="http://localhost:4000/jekylltest/jekyll/update/2018/09/16/wedding.html" rel="alternate" type="text/html" title="Wedding Adrian+Dolores" /><published>2018-09-16T09:15:38+02:00</published><updated>2018-09-16T09:15:38+02:00</updated><id>http://localhost:4000/jekylltest/jekyll/update/2018/09/16/wedding</id><content type="html" xml:base="http://localhost:4000/jekylltest/jekyll/update/2018/09/16/wedding.html">&lt;!--permalink: /jekyll/update/2018/09/08/wedding.html--&gt;
+&lt;!--https://jekyllrb.com/docs/frontmatter/--&gt;
+
+&lt;h2 id=&quot;place-and-time&quot;&gt;Place and time&lt;/h2&gt;
+
+&lt;p&gt;08.06.2019.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;18:00: &lt;a href=&quot;https://goo.gl/maps/peU1WGbiJ9A2&quot;&gt;Crkva Sv. Ivana Krstitelja&lt;/a&gt;, Podhum Livno, 80101, BiH&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;20:00: &lt;a href=&quot;https://www.facebook.com/pg/Rustikana-Svadbeni-Salon-151493608260287/about/?ref=page_internal&quot;&gt;Svadbeni salon Rustikana&lt;/a&gt;, Podhum Livno, 80101, BiH&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;09.06.2019.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chilling at Dolores’ place in &lt;a href=&quot;https://goo.gl/maps/wY7uqdbcUWA2&quot;&gt;Batinića Brdo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-arrive-to-podhum&quot;&gt;How to arrive to Podhum&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Having a car/renting a car at the Split Airport is the best option, since the public transport is not well organised. If you want to go anyplace else than the hotel a car is a must in Bosnia &amp;amp; Herzegowina. 
+Renting a car in Split is not expensive, but there are some additional fees for crossing the border with Bosnia &amp;amp; Herzegowina.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From &lt;a href=&quot;https://goo.gl/maps/a4NuYBwwwAp&quot;&gt;Split Airport with a rented car&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From Split Airport with no car: contact us for picking you up.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-to-sleep&quot;&gt;Where to sleep&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In Livno (town):&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.booking.com/hotel/ba/b-m-livno.en-gb.html?aid=389184;label=metagha-link-mapresultsDE-hotel-2405203_dev-desktop_los-1_bw-17_dow-Tuesday_defdate-1_room-0_lang-en_curr-EUR_gstadt-2_rateid-0_aud-102523974_cid-67;sid=385b6669b77ac3210ae5d051a33fa41c;all_sr_blocks=240520301_102247697_0_1_0;checkin=2018-09-25;checkout=2018-09-26;dest_id=-87179;dest_type=city;dist=0;group_adults=2;hapos=1;highlighted_blocks=240520301_102247697_0_1_0;hpos=1;room1=A%2CA;sb_price_type=total;srepoch=1536415085;srfid=741201b973af4ac9ec3924df7d2e1864c8cdedeeX1;srpvid=e5686236cb930254;type=total;ucfs=1&amp;amp;#hotelTmpl&quot;&gt;B&amp;amp;M&lt;/a&gt;: modern&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.booking.com/hotel/ba/park-livno.en-gb.html?aid=389184&amp;amp;label=metagha-link-mapresultsDE-hotel-2405203_dev-desktop_los-1_bw-17_dow-Tuesday_defdate-1_room-0_lang-en_curr-EUR_gstadt-2_rateid-0_aud-102523974_cid-67&amp;amp;sid=385b6669b77ac3210ae5d051a33fa41c&amp;amp;checkin=2018-09-25&amp;amp;checkout=2018-09-26&amp;amp;ucfs=1&amp;amp;srpvid=7a62624f83980088&amp;amp;srepoch=1536415136&amp;amp;highlighted_blocks=38083504_112503334_0_1_0&amp;amp;all_sr_blocks=38083504_112503334_0_1_0&amp;amp;room1=A,A&amp;amp;hpos=2&amp;amp;hapos=2&amp;amp;dest_type=city&amp;amp;dest_id=-87179&amp;amp;srfid=083f09458ea628c4fc9a2deca9ad5fd6e4b52fabX2&amp;amp;from=searchresults;highlight_room=#hotelTmpl&quot;&gt;Hotel park&lt;/a&gt;: good food, nice park, a little bit old-fashion but ok&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.booking.com/hotel/ba/hard-rock-rooms-for-two.en-gb.html?aid=389184&amp;amp;label=metagha-link-mapresultsDE-hotel-2405203_dev-desktop_los-1_bw-17_dow-Tuesday_defdate-1_room-0_lang-en_curr-EUR_gstadt-2_rateid-0_aud-102523974_cid-67&amp;amp;sid=385b6669b77ac3210ae5d051a33fa41c&amp;amp;checkin=2018-09-25&amp;amp;checkout=2018-09-26&amp;amp;ucfs=1&amp;amp;srpvid=0f57625af9d000d4&amp;amp;srepoch=1536415157&amp;amp;highlighted_blocks=331601802_117238032_2_0_0&amp;amp;all_sr_blocks=331601802_117238032_2_0_0&amp;amp;room1=A,A&amp;amp;hpos=4&amp;amp;hapos=4&amp;amp;dest_type=city&amp;amp;dest_id=-87179&amp;amp;srfid=014e960999d81ce3adae730eda5f834905af7ddcX4&amp;amp;from=searchresults;from_hc_img=1#hotelTmpl&quot;&gt;Hard Rock Hotel&lt;/a&gt;: it looks nice, in the old town, but we haven’t checked here to know for sure.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/nkKamesnicaPodhum/&quot;&gt;NK Kamesnica&lt;/a&gt;: very cheap and near the restaurant, contact us for this&lt;/li&gt;
+  &lt;li&gt;contact us if you have problems finding an accommodation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-to-do-if-you-stay-longer&quot;&gt;What to do if you stay longer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stari grad Livno/Bašjakovac&lt;/li&gt;
+  &lt;li&gt;Tušnica hiking&lt;/li&gt;
+  &lt;li&gt;Kamešnica hiking&lt;/li&gt;
+  &lt;li&gt;Lake Mandek&lt;/li&gt;
+  &lt;li&gt;Looking for wild horses in Kruzi&lt;/li&gt;
+  &lt;li&gt;Nearest bigger cities: Split 1.5h, Mostar 2.5h, Sarajevo 3.5h with a car.&lt;/li&gt;
+  &lt;li&gt;Adriatic sea: nearest town: Makarska, 1.15 h&lt;/li&gt;
+  &lt;li&gt;Imotski lakes: 1h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adrian: adilemmenmeier@hotmail.com, +41 78 884 54 14&lt;/li&gt;
+  &lt;li&gt;Dolores: batinic.dolores@gmail.com, +49 176 301 553 72&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.Jekyll also offers powerful support for code snippets:
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+--&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekylltest/jekyll/update/2018/01/26/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-26T15:44:41+01:00</published><updated>2018-01-26T15:44:41+01:00</updated><id>http://localhost:4000/jekylltest/jekyll/update/2018/01/26/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekylltest/jekyll/update/2018/01/26/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
